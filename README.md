@@ -1,4 +1,4 @@
-# Camunda 8 orchestrates complex business processes that span people, systems, and devices.
+# Camunda 8 orchestrates complex business processes that span people, systems, and devices
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.camunda.zeebe/camunda-zeebe/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.camunda.zeebe/camunda-zeebe)
 
